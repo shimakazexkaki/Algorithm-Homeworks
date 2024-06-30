@@ -1,18 +1,4 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# 題目：簡易LLM
+## 題目敘述
+![image](https://github.com/shimakazexkaki/Algorithm-Homeworks/assets/68366490/873d35f5-1021-4f51-a125-3e12c726263c)
+##### 簡單來說就是要找出陣列A[0]目標後一個最常出現的字詞
